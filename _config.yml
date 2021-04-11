@@ -1,0 +1,20 @@
+# Site settings
+title: Takhsin Saraira
+description: My personal website.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Takhsin Saraira
+
+user_title: Java Developer
+email: mrsarayra@gmail.com
+github_username:  https://github.com/mrsaraira
+instagram:  https://www.instagram.com/mrsaraira/
+linkedin:  https://www.linkedin.com/in/mrsarayra/
+
+# Google-analytics
+google-analytics:
+  id: "G-FB6GVGNPW4"
+
+exclude: ['package.json', 'src' , 'node_modules']
