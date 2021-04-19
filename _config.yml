@@ -17,4 +17,7 @@ linkedin:  https://www.linkedin.com/in/mrsarayra/
 google-analytics:
   id: "G-FB6GVGNPW4"
 
+plugins:
+  - jekyll-sitemap
+  
 exclude: ['package.json', 'src' , 'node_modules']
